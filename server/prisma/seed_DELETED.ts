@@ -7,6 +7,7 @@ async function main() {
         data: {
             name: 'John Doe',
             email: 'jdoe@gmail.com',
+            googleId: '111222333',
             avatarUrl: 'https://cdn-icons-png.flaticon.com/512/147/147144.png'
         }
     })
